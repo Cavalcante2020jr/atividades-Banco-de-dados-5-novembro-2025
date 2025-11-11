@@ -1,0 +1,16 @@
+A alternativa correta é:
+
+✅ **b. O modelo conceitual descreve a realidade do negócio; o lógico traduz isso para tabelas.**
+
+### ✅ Explicação
+
+* **Modelo Conceitual**: representa os **conceitos do negócio**, normalmente usando entidades, atributos e relacionamentos (ex.: diagrama ER).
+* **Modelo Lógico (Relacional)**: transforma esses conceitos em **tabelas, colunas, tipos de dados, chaves primárias e estrangeiras**.
+
+### ❌ Por que as outras estão erradas?
+
+* **a.** É o contrário: o conceitual é a visão mais abstrata; o lógico é o passo para implementação.
+* **c.** Os níveis de detalhe são diferentes — o modelo lógico é mais técnico.
+* **d.** O modelo lógico **utiliza sim** chaves primárias e estrangeiras.
+
+Portanto, a resposta correta é **b**.
